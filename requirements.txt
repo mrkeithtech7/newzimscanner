@@ -1,0 +1,1 @@
+# Core scanner uses Python standard library only.
